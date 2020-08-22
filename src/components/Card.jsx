@@ -9,10 +9,10 @@ const CardBody = styled.div`
   margin-bottom: 2em;
 `;
 
-const Card = ({ container }) => {
+const Card = ({ container, select }) => {
   const { containerNumber, sealNumber, date } = container;
   return (
-    <CardBody>
+    <CardBody onClick={() => select(container)}>
       <p>{containerNumber}</p>
       <p>{sealNumber}</p>
       <p>{date}</p>
