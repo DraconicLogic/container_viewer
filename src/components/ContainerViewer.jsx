@@ -1,6 +1,6 @@
 import React from "react";
 import RawContent from "../screens/RawContent";
-import ContentTally from "../screens/ContentTally";
+// import ContentTally from "../screens/ContentTally";
 
 const ContainerViewer = ({ container }) => {
   console.log(container);
