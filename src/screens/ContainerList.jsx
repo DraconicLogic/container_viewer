@@ -12,6 +12,7 @@ const ContainerList = ({ containers, select }) => {
           container={container}
           key={container.containerNumber}
           select={select}
+          context="ContainerList"
         />
       ))}
     </div>

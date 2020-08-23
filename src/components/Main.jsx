@@ -16,7 +16,6 @@ const Main = () => {
 
   return (
     <div>
-      <h1>Main</h1>
       <Header selected={selectedContainer} unselect={setSelectedContainer} />
       {selectedContainer ? (
         <ContainerViewer container={selectedContainer} />
