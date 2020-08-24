@@ -10,12 +10,16 @@ const Navbar = styled.div`
 `;
 const Title = styled.h1`
   grid-column: 2;
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
 `;
 
 const LeftSection = styled.span`
   grid-column: 1;
   font-size: xxx-large;
   margin-right: 70%;
+  cursor: pointer;
 `;
 
 const RightSection = styled.span`

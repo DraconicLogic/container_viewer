@@ -1,12 +1,17 @@
 import React from "react";
 import Card from "../components/Card";
+import styled from "styled-components";
+
+const List = styled.div`
+  margin-top: 2em;
+  text-align: -webkit-center;
+`;
 
 const ContainerList = ({ containers, select }) => {
   console.log(containers);
 
   return (
-    <div>
-      <h1>Container List</h1>
+    <List>
       {containers.map((container) => (
         <Card
           container={container}
@@ -15,7 +20,7 @@ const ContainerList = ({ containers, select }) => {
           context="ContainerList"
         />
       ))}
-    </div>
+    </List>
   );
 };
 
