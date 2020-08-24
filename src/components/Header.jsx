@@ -43,7 +43,11 @@ const Header = ({ selected, unselect }) => {
       display = (
         <Navbar>
           <Title>Container Viewer</Title>
-          <RightSection role="img">&#x1F50D;</RightSection>
+          <RightSection>
+            <span aria-label="search" role="img">
+              &#x1F50D;
+            </span>
+          </RightSection>
         </Navbar>
       );
     }
