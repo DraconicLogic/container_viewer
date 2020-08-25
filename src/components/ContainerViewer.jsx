@@ -11,26 +11,44 @@ const NavExt = styled.div`
 `;
 
 const leftOptionStyle = {
-  "grid-column": "1",
+  gridColumn: "1",
   cursor: "pointer",
-  "border-right": "solid",
+  borderRight: "solid",
 };
 
 const rightOptionStyle = {
-  "grid-column": "2",
+  gridColumn: "2",
+  cursor: "pointer",
+};
+
+const leftHighlightStyle = {
+  gridColumn: "1",
+  cursor: "pointer",
+  borderRight: "solid",
+  background: "teal",
+};
+
+const rightHighlightStyle = {
+  background: "teal",
+  gridColumn: "2",
   cursor: "pointer",
 };
 
 const ContainerViewer = ({ container }) => {
-  console.log(container);
   const [rawScreen, setRawScreen] = useState(true);
   return (
     <div>
       <NavExt>
-        <span onClick={() => setRawScreen(true)} style={leftOptionStyle}>
+        <span
+          onClick={() => setRawScreen(true)}
+          style={(rawScreen && leftHighlightStyle) || leftOptionStyle}
+        >
           Raw Content
         </span>
-        <span onClick={() => setRawScreen(false)} style={rightOptionStyle}>
+        <span
+          onClick={() => setRawScreen(false)}
+          style={(!rawScreen && rightHighlightStyle) || rightOptionStyle}
+        >
           Content Tally
         </span>
       </NavExt>

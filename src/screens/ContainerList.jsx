@@ -8,8 +8,6 @@ const List = styled.div`
 `;
 
 const ContainerList = ({ containers, select }) => {
-  console.log(containers);
-
   return (
     <List>
       {containers.map((container) => (

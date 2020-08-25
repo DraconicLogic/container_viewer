@@ -22,16 +22,20 @@ const ContentTally = ({ content }) => {
 
   return (
     <Table>
-      <tr>
-        <th>Product</th>
-        <th>Quantity</th>
-      </tr>
-      {orderedContainer.map((entry, index) => (
+      <thead>
         <tr>
-          <td>{Object.keys(entry)[0]}</td>
-          <td>{Object.values(entry)[0]}</td>
+          <th>Product</th>
+          <th>Quantity</th>
         </tr>
-      ))}
+      </thead>
+      <tbody>
+        {orderedContainer.map((entry, index) => (
+          <tr key={index}>
+            <td>{Object.keys(entry)[0]}</td>
+            <td>{Object.values(entry)[0]}</td>
+          </tr>
+        ))}
+      </tbody>
     </Table>
   );
 };

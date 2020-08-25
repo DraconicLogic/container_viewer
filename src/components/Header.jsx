@@ -27,7 +27,6 @@ const RightSection = styled.span`
 `;
 
 const Header = ({ selected, unselect }) => {
-  console.log(selected);
   const togggleDisplay = () => {
     let display;
 
