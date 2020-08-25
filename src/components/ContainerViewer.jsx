@@ -37,7 +37,7 @@ const ContainerViewer = ({ container }) => {
       {rawScreen ? (
         <RawContent content={container.containerContent} />
       ) : (
-        <ContentTally />
+        <ContentTally content={container.containerContent} />
       )}
     </div>
   );
