@@ -4,6 +4,7 @@ import ContainerList from "../screens/ContainerList";
 import ContainerViewer from "./ContainerViewer";
 import { getContainers } from "../api";
 import styled from "styled-components";
+import compareDates from "../utils";
 
 const Modal = styled.div`
   position: fixed;
@@ -24,6 +25,8 @@ const Main = () => {
 
   useEffect(() => {
     getContainers().then(({ containers }) => {
+      containers.sort(compareDates);
+
       setContainers(containers);
     });
   }, []);
