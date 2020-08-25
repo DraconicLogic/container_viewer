@@ -3,6 +3,20 @@ import Header from "./Header";
 import ContainerList from "../screens/ContainerList";
 import ContainerViewer from "./ContainerViewer";
 import { getContainers } from "../api";
+import styled from "styled-components";
+
+const Modal = styled.div`
+  position: fixed;
+  text-align: center;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.9);
+`;
 
 const Main = () => {
   const [containers, setContainers] = useState([]);
@@ -16,6 +30,11 @@ const Main = () => {
 
   return (
     <div>
+      {containers.length < 1 && (
+        <Modal>
+          <h1 style={{ color: "white" }}>Loading</h1>
+        </Modal>
+      )}
       <Header selected={selectedContainer} unselect={setSelectedContainer} />
       {selectedContainer ? (
         <ContainerViewer container={selectedContainer} />
