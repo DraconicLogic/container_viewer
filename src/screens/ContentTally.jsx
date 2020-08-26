@@ -4,9 +4,15 @@ import productsInOrder from "../productsInOrder.json";
 
 const Table = styled.table``;
 
+const totalStyle = {
+  "font-weight": "bold",
+};
+
 const ContentTally = ({ content }) => {
+  let baleSum = 0;
   const contentObject = content.reduce((obj, stack) => {
     stack.stackContent.forEach((bale) => {
+      baleSum += 1;
       if (!obj[bale]) obj[bale] = 1;
       else obj[bale] += 1;
     });
@@ -36,6 +42,12 @@ const ContentTally = ({ content }) => {
           </tr>
         ))}
       </tbody>
+      <tfoot>
+        <tr style={totalStyle}>
+          <td>Total</td>
+          <td>{baleSum}</td>
+        </tr>
+      </tfoot>
     </Table>
   );
 };
