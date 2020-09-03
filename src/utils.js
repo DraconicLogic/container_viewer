@@ -1,3 +1,5 @@
+import products from './products.json'
+
 function formatDate(dateString){
   return dateString
   .split('-')
@@ -11,7 +13,7 @@ function formatDate(dateString){
   .join('')
 }
 
-export default function compareDates(a, b) {
+export function compareDates(a, b) {
   if (formatDate(a.date) > formatDate(b.date)) {
     return -1
   }
@@ -23,4 +25,22 @@ export default function compareDates(a, b) {
   if (formatDate(a.date) === formatDate(b.date)) {
     return 0
   }
+}
+
+export function countBales(containerContent) {
+  return containerContent.reduce((bales, stack) => {
+    stack.stackContent.forEach(() => (
+      bales++
+    ))
+    return bales
+  },0)
+}
+
+export function weighBales(containerContent) {
+  return containerContent.reduce((kg, stack ) => {
+    stack.stackContent.forEach((bale) => (
+      kg += products[bale].size
+    ))
+    return kg
+  }, 0)
 }

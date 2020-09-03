@@ -1,10 +1,11 @@
 import React from "react";
 import styled from "styled-components";
+import * as utils from "../utils";
 
 const CardBody = styled.div`
   border: solid;
   width: 15em;
-  height: 7em;
+  height: fit-content;
   border-radius: 2em;
   margin-bottom: 2em;
   cursor: pointer;
@@ -19,13 +20,15 @@ const NavbarCard = styled(CardBody)`
 `;
 
 const Card = ({ container, select, context }) => {
-  const { containerNumber, sealNumber, date } = container;
+  const { containerNumber, sealNumber, date, containerContent } = container;
 
   const displayContainerListCard = () => (
     <CardBody onClick={() => select(container)}>
       <p>{containerNumber}</p>
       <p>{sealNumber}</p>
       <p>{date}</p>
+      <p>{utils.countBales(containerContent)} bales</p>
+      <p>{utils.weighBales(containerContent)} kg</p>
     </CardBody>
   );
 

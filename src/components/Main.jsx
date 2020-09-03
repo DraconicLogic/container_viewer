@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import ContainerList from "../screens/ContainerList";
 import ContainerViewer from "./ContainerViewer";
-import { getContainers } from "../api";
+import * as api from "../api";
 import styled from "styled-components";
-import compareDates from "../utils";
+import * as utils from "../utils";
 
 const Modal = styled.div`
   position: fixed;
@@ -24,8 +24,8 @@ const Main = () => {
   const [selectedContainer, setSelectedContainer] = useState(null);
 
   useEffect(() => {
-    getContainers().then(({ containers }) => {
-      containers.sort(compareDates);
+    api.getContainers().then(({ containers }) => {
+      containers.sort(utils.compareDates);
 
       setContainers(containers);
     });

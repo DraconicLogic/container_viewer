@@ -47,9 +47,9 @@ const Header = ({ selected, unselect }) => {
         <Navbar>
           <Title>Container Viewer</Title>
           <RightSection>
-            <span aria-label="search" role="img">
+            {/* <span aria-label="search" role="img">
               &#x1F50D;
-            </span>
+            </span> */}
           </RightSection>
         </Navbar>
       );
