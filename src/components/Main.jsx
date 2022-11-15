@@ -7,45 +7,47 @@ import styled from "styled-components";
 import * as utils from "../utils";
 
 const Modal = styled.div`
-  position: fixed;
-  text-align: center;
-  z-index: 1;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgb(0, 0, 0);
-  background-color: rgba(0, 0, 0, 0.9);
+	position: fixed;
+	text-align: center;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0.9);
 `;
 
 const Main = () => {
-  const [containers, setContainers] = useState([]);
-  const [selectedContainer, setSelectedContainer] = useState(null);
+	const [containers, setContainers] = useState([]);
+	const [selectedContainer, setSelectedContainer] = useState(null);
 
-  useEffect(() => {
-    api.getContainers().then(({ containers }) => {
-      containers.sort(utils.compareDates);
+	useEffect(() => {
+		// Retieve Data from storage
 
-      setContainers(containers);
-    });
-  }, []);
+		api.getContainers().then(({ containers }) => {
+			containers.sort(utils.compareDates);
 
-  return (
-    <div>
-      {containers.length < 1 && (
-        <Modal>
-          <h1 style={{ color: "white" }}>Loading</h1>
-        </Modal>
-      )}
-      <Header selected={selectedContainer} unselect={setSelectedContainer} />
-      {selectedContainer ? (
-        <ContainerViewer container={selectedContainer} />
-      ) : (
-        <ContainerList containers={containers} select={setSelectedContainer} />
-      )}
-    </div>
-  );
+			setContainers(containers);
+		});
+	}, []);
+
+	return (
+		<div>
+			{containers.length < 1 && (
+				<Modal>
+					<h1 style={{ color: "white" }}>Loading</h1>
+				</Modal>
+			)}
+			<Header selected={selectedContainer} unselect={setSelectedContainer} />
+			{selectedContainer ? (
+				<ContainerViewer container={selectedContainer} />
+			) : (
+				<ContainerList containers={containers} select={setSelectedContainer} />
+			)}
+		</div>
+	);
 };
 
 export default Main;
