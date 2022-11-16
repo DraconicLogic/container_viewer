@@ -5,6 +5,7 @@ import ContainerViewer from "./ContainerViewer";
 import * as api from "../api";
 import styled from "styled-components";
 import * as utils from "../utils";
+import { updateLocalContainers, getContainersLocal } from "../dataStorage";
 
 const Modal = styled.div`
 	position: fixed;
@@ -25,11 +26,18 @@ const Main = () => {
 
 	useEffect(() => {
 		// Retieve Data from storage
-
+		const localContainers = getContainersLocal();
+		if (localContainers) {
+			localContainers.sort(utils.compareDates);
+			setContainers(localContainers);
+		}
 		api.getContainers().then(({ containers }) => {
-			containers.sort(utils.compareDates);
-
-			setContainers(containers);
+			if (localContainers.length < containers.length) {
+				containers.sort(utils.compareDates);
+				updateLocalContainers(containers);
+				setContainers(containers);
+			}
+			// indicate that data is synced
 		});
 	}, []);
 
