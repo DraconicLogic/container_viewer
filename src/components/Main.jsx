@@ -25,21 +25,26 @@ const Main = () => {
 	const [selectedContainer, setSelectedContainer] = useState(null);
 
 	useEffect(() => {
-		// Retieve Data from storage
 		const localContainers = getContainersLocal();
 		if (localContainers) {
-			localContainers.sort(utils.compareDates);
 			setContainers(localContainers);
 		}
 		api.getContainers().then(({ containers }) => {
-			if (localContainers.length < containers.length) {
-				containers.sort(utils.compareDates);
+			console.log(containers);
+			if (!localContainers) {
+				updateLocalContainers(containers);
+				setContainers(containers);
+			} else if (localContainers.length < containers.length) {
 				updateLocalContainers(containers);
 				setContainers(containers);
 			}
 			// indicate that data is synced
 		});
 	}, []);
+
+	useEffect(() => {
+		containers.sort(utils.compareDates);
+	}, [containers]);
 
 	return (
 		<div>
