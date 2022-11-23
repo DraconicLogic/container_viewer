@@ -26,11 +26,12 @@ const Main = () => {
 
 	useEffect(() => {
 		const localContainers = getContainersLocal();
+		localContainers.sort(utils.compareDates);
 		if (localContainers) {
 			setContainers(localContainers);
 		}
 		api.getContainers().then(({ containers }) => {
-			console.log(containers);
+			containers.sort(utils.compareDates);
 			if (!localContainers) {
 				updateLocalContainers(containers);
 				setContainers(containers);
@@ -41,10 +42,6 @@ const Main = () => {
 			// indicate that data is synced
 		});
 	}, []);
-
-	useEffect(() => {
-		containers.sort(utils.compareDates);
-	}, [containers]);
 
 	return (
 		<div>

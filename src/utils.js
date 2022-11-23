@@ -1,5 +1,11 @@
 import products from './products.json'
 
+export function simplifyDate(dateIsoString){
+  const date = new Date(dateIsoString)
+  return date.toLocaleDateString("en-GB")
+}
+
+//Delete This 
 function formatDate(dateString){
   return dateString
   .split('-')
@@ -13,6 +19,7 @@ function formatDate(dateString){
   .join('')
 }
 
+// Rewrite this.formatDate is depricated.
 export function compareDates(a, b) {
   if (formatDate(a.date) > formatDate(b.date)) {
     return -1
