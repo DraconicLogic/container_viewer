@@ -5,31 +5,16 @@ export function simplifyDate(dateIsoString){
   return date.toLocaleDateString("en-GB")
 }
 
-//Delete This 
-function formatDate(dateString){
-  return dateString
-  .split('-')
-  .map((section) => {
-    if (section.length === 1) {
-      section = '0' + section 
-    }
-    return section 
-  })
-  .reverse()
-  .join('')
-}
-
-// Rewrite this.formatDate is depricated.
 export function compareDates(a, b) {
-  if (formatDate(a.date) > formatDate(b.date)) {
+  if ((a.date) > (b.date)) {
     return -1
   }
 
-  if (formatDate(a.date) < formatDate(b.date)) {
+  if ((a.date) < (b.date)) {
     return 1
   }
 
-  if (formatDate(a.date) === formatDate(b.date)) {
+  if ((a.date) === (b.date)) {
     return 0
   }
 }

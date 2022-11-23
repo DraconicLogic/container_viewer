@@ -38,7 +38,7 @@ const Card = ({ container, select, context }) => {
 			<br />
 			<span>{sealNumber}</span>
 			<br />
-			<span>{date}</span>
+			<span>{utils.simplifyDate(date)}</span>
 		</NavbarCard>
 	);
 
