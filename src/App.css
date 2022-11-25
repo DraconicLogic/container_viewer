@@ -1,4 +1,12 @@
 .App {
-  text-align: center;
+	text-align: center;
+}
 
+@keyframes highlighter {
+	from {
+		background: teal;
+	}
+	to {
+		background: cadetblue;
+	}
 }

@@ -1,28 +1,20 @@
 import products from './products.json'
 
-function formatDate(dateString){
-  return dateString
-  .split('-')
-  .map((section) => {
-    if (section.length === 1) {
-      section = '0' + section 
-    }
-    return section 
-  })
-  .reverse()
-  .join('')
+export function simplifyDate(dateIsoString){
+  const date = new Date(dateIsoString)
+  return date.toLocaleDateString("en-GB")
 }
 
 export function compareDates(a, b) {
-  if (formatDate(a.date) > formatDate(b.date)) {
+  if ((a.date) > (b.date)) {
     return -1
   }
 
-  if (formatDate(a.date) < formatDate(b.date)) {
+  if ((a.date) < (b.date)) {
     return 1
   }
 
-  if (formatDate(a.date) === formatDate(b.date)) {
+  if ((a.date) === (b.date)) {
     return 0
   }
 }
