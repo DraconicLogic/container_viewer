@@ -26,8 +26,8 @@ const Main = () => {
 
 	useEffect(() => {
 		const localContainers = getContainersLocal();
-		localContainers.sort(utils.compareDates);
 		if (localContainers) {
+			localContainers.sort(utils.compareDates);
 			setContainers(localContainers);
 		}
 		api.getContainers().then(({ containers }) => {

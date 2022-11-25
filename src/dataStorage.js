@@ -1,5 +1,4 @@
 export function updateLocalContainers(dbContainers){
-  console.log(dbContainers)
   localStorage.setItem("containers", JSON.stringify(dbContainers))
 }
 

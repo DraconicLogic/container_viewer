@@ -17,6 +17,7 @@ const NavbarCard = styled(CardBody)`
 	height: auto;
 	border-radius: 1em;
 	cursor: auto;
+	margin: 1em;
 `;
 
 const Card = ({ container, select, context }) => {

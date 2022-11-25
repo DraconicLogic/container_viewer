@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 const NavExt = styled.div`
 	display: grid;
-	grid-template-column: 1fr 1fr;
+	grid-template-columns: 1fr 1fr;
 	border: solid;
 	border-top: none;
 `;
@@ -26,20 +26,20 @@ const leftHighlightStyle = {
 	cursor: "pointer",
 	borderRight: "solid",
 	background: "teal",
-	"animation-name": `highlighter`,
-	"animation-duration": "1s",
-	"animation-iteration-count": "infinite",
-	"animation-direction": "alternate-reverse",
+	animationName: `highlighter`,
+	animationDuration: "1s",
+	animationIterationCount: "infinite",
+	animationDirection: "alternate-reverse",
 };
 
 const rightHighlightStyle = {
 	background: "teal",
 	gridColumn: "2",
 	cursor: "pointer",
-	"animation-name": "highlighter",
-	"animation-duration": "1s",
-	"animation-iteration-count": "infinite",
-	"animation-direction": "alternate-reverse",
+	animationName: "highlighter",
+	animationDuration: "1s",
+	animationIterationCount: "infinite",
+	animationDirection: "alternate-reverse",
 };
 
 const ContainerViewer = ({ container }) => {

@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Card from "./Card";
 
 const Navbar = styled.div`
-  border: solid;
+  border-bottom: solid;
   display: grid;
   grid-template-columns 30% 40% 30%;
 `;
