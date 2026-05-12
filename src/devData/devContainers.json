@@ -1,0 +1,2375 @@
+{
+  "containers": [
+    {
+      "_id": "5fa16c02d087630004552a6c",
+      "date": "2020-11-02T09:00:00",
+      "containerNumber": "MRKU 1030873",
+      "sealNumber": "ML-GB 4064190",
+      "containerContent": [
+        {
+          "stackContent": [
+            "CR",
+            "MIX TRA",
+            "CTS",
+            "LTSH",
+            "AC",
+            "LEG",
+            "PINUP",
+            "CR",
+            "CJS",
+            "AC",
+            "AC",
+            "LND"
+          ],
+          "_id": "5fa16c02d087630004552a6d",
+          "stackId": "645"
+        },
+        {
+          "stackContent": [
+            "CHHR",
+            "LDS",
+            "CANO",
+            "LTSH",
+            "CHHR",
+            "ATS",
+            "CHHR",
+            "ATS",
+            "CSHO",
+            "AC",
+            "NET",
+            "CPT"
+          ],
+          "_id": "5fa16c02d087630004552a6e",
+          "stackId": "252"
+        },
+        {
+          "stackContent": [
+            "LTSH",
+            "LTSH",
+            "CJS",
+            "LTSH",
+            "AC",
+            "AC",
+            "CTS",
+            "PINUP",
+            "LPB",
+            "LTS",
+            "LPB",
+            "CJS"
+          ],
+          "_id": "5fa16c02d087630004552a6f",
+          "stackId": "848"
+        },
+        {
+          "stackContent": [
+            "SCHUNI",
+            "LJK",
+            "L POLO S",
+            "AC",
+            "ATS",
+            "AC",
+            "ATS",
+            "L POLO D",
+            "AC",
+            "LCB",
+            "AC",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a70",
+          "stackId": "738"
+        },
+        {
+          "stackContent": [
+            "LEG",
+            "CHKNW",
+            "AC",
+            "CJS",
+            "CPT",
+            "CR",
+            "CJS",
+            "SCHUNI",
+            "UW",
+            "PYJ",
+            "AC",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a71",
+          "stackId": "719"
+        },
+        {
+          "stackContent": [
+            "LCB",
+            "LCB",
+            "CTS",
+            "CHHR",
+            "CJS",
+            "LCD",
+            "CANO",
+            "ATS",
+            "CPT",
+            "CJS",
+            "LTSH",
+            "CHHR"
+          ],
+          "_id": "5fa16c02d087630004552a72",
+          "stackId": "094"
+        },
+        {
+          "stackContent": [
+            "CHHR",
+            "CTS",
+            "LEG",
+            "MIX TRA",
+            "UW",
+            "CJS",
+            "CJS",
+            "CSHO",
+            "CPT",
+            "SCHUNI",
+            "AC",
+            "OSH"
+          ],
+          "_id": "5fa16c02d087630004552a73",
+          "stackId": "437"
+        },
+        {
+          "stackContent": [
+            "LCB",
+            "CTS",
+            "CR",
+            "CR",
+            "CHKNW",
+            "CR",
+            "AC",
+            "AC",
+            "AC",
+            "PINUP",
+            "AC",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a74",
+          "stackId": "262"
+        },
+        {
+          "stackContent": [
+            "PINUP",
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "CR",
+            "LPB",
+            "LPB",
+            "OSH"
+          ],
+          "_id": "5fa16c02d087630004552a75",
+          "stackId": "168"
+        },
+        {
+          "stackContent": [
+            "NYCL",
+            "CANO",
+            "L POLO D",
+            "CHHR",
+            "LND",
+            "L POLO S",
+            "SCHUNI",
+            "LPD",
+            "CHHR",
+            "LTSH",
+            "CHHR",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a76",
+          "stackId": "136"
+        },
+        {
+          "stackContent": [
+            "MJK",
+            "CTS",
+            "LTS",
+            "LCB",
+            "ATS",
+            "ATS",
+            "CJS",
+            "CJS",
+            "AC",
+            "CHHR",
+            "L POLO D",
+            "LJK"
+          ],
+          "_id": "5fa16c02d087630004552a77",
+          "stackId": "114"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CR",
+            "CR",
+            "OSH",
+            "CHHR",
+            "CJS",
+            "LTSH",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "LTSH"
+          ],
+          "_id": "5fa16c02d087630004552a78",
+          "stackId": "571"
+        },
+        {
+          "stackContent": [
+            "CR",
+            "CHKNW",
+            "LPB",
+            "CJS",
+            "AC",
+            "CANO",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "BRA"
+          ],
+          "_id": "5fa16c02d087630004552a79",
+          "stackId": "123"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CHHR",
+            "LWCB",
+            "CHHR",
+            "CJS",
+            "CJS",
+            "ATS",
+            "CR",
+            "CR",
+            "LCD",
+            "CHHR",
+            "CJS"
+          ],
+          "_id": "5fa16c02d087630004552a7a",
+          "stackId": "315"
+        },
+        {
+          "stackContent": [
+            "LPD",
+            "MIX TRA",
+            "CR",
+            "LPB",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CHHR",
+            "AC",
+            "SOX"
+          ],
+          "_id": "5fa16c02d087630004552a7b",
+          "stackId": "945"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "LND",
+            "LCB",
+            "CTS",
+            "CJS",
+            "MIX TRA",
+            "CHHR",
+            "LTSH",
+            "ATS",
+            "ATS",
+            "CANO",
+            "ATS"
+          ],
+          "_id": "5fa16c02d087630004552a7c",
+          "stackId": "529"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "PINUP",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "SOX",
+            "AC",
+            "AC",
+            "MSUIT",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a7d",
+          "stackId": "673"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "MIX TRA",
+            "LEG",
+            "CTS",
+            "CR",
+            "LTSH",
+            "UW",
+            "AC",
+            "AC",
+            "ATS",
+            "ATS",
+            "LPS"
+          ],
+          "_id": "5fa16c02d087630004552a7e",
+          "stackId": "955"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "5fa16c02d087630004552a7f",
+          "stackId": "680"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "5fa16c02d087630004552a80",
+          "stackId": "874"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "5fa16c02d087630004552a81",
+          "stackId": "111"
+        },
+        {
+          "stackContent": [
+            "MSH",
+            "MSH",
+            "MSH"
+          ],
+          "_id": "5fa16c02d087630004552a82",
+          "stackId": "822"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "LMP"
+          ],
+          "_id": "5fa16c02d087630004552a83",
+          "stackId": "781"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "HSH",
+            "MTP"
+          ],
+          "_id": "5fa16c02d087630004552a84",
+          "stackId": "479"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "LMP"
+          ],
+          "_id": "5fa16c02d087630004552a85",
+          "stackId": "844"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "MTP"
+          ],
+          "_id": "5fa16c02d087630004552a86",
+          "stackId": "867"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "WSH"
+          ],
+          "_id": "5fa16c02d087630004552a87",
+          "stackId": "039"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "MSH"
+          ],
+          "_id": "5fa16c02d087630004552a88",
+          "stackId": "906"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a89",
+          "stackId": "753"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a8a",
+          "stackId": "724"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a8b",
+          "stackId": "240"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a8c",
+          "stackId": "149"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a8d",
+          "stackId": "412"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a8e",
+          "stackId": "208"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a8f",
+          "stackId": "973"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "5fa16c02d087630004552a90",
+          "stackId": "081"
+        },
+        {
+          "stackContent": [
+            "CR",
+            "AC",
+            "CJS",
+            "AC",
+            "OSH",
+            "LPB",
+            "LCB",
+            "SOX",
+            "LND",
+            "LPB",
+            "ATS",
+            "LND"
+          ],
+          "_id": "5fa16c02d087630004552a91",
+          "stackId": "532"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "LTSH",
+            "CR",
+            "CJS",
+            "CJS",
+            "LTSH",
+            "CHHR",
+            "LCD",
+            "L POLO D",
+            "LPD",
+            "LND",
+            "MIX TRA"
+          ],
+          "_id": "5fa16c02d087630004552a92",
+          "stackId": "056"
+        },
+        {
+          "stackContent": [
+            "CTS",
+            "SLIP",
+            "MIX TRA",
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "CR",
+            "LPB",
+            "OSH",
+            "CR",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a93",
+          "stackId": "219"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "ATS",
+            "LTSH",
+            "LPD",
+            "MIX TRA",
+            "AC",
+            "AC",
+            "CHKNW",
+            "CJS",
+            "CJS",
+            "CPT",
+            "LPB"
+          ],
+          "_id": "5fa16c02d087630004552a94",
+          "stackId": "550"
+        },
+        {
+          "stackContent": [
+            "MIX TRA",
+            "MIX TRA",
+            "LND",
+            "LCS",
+            "CSHO",
+            "ATS",
+            "LPD",
+            "AC",
+            "CR",
+            "AC",
+            "L POLO D",
+            "CTS"
+          ],
+          "_id": "5fa16c02d087630004552a95",
+          "stackId": "234"
+        },
+        {
+          "stackContent": [
+            "LJK",
+            "CHHR",
+            "CHHR",
+            "ATS",
+            "PINUP",
+            "AC",
+            "AC",
+            "LSW",
+            "SCHUNI",
+            "AC",
+            "MJK",
+            "CHHR"
+          ],
+          "_id": "5fa16c02d087630004552a96",
+          "stackId": "747"
+        },
+        {
+          "stackContent": [
+            "CHKNW",
+            "UW",
+            "LEG",
+            "LCB",
+            "LTSH",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "MSUIT",
+            "AC",
+            "CHHR"
+          ],
+          "_id": "5fa16c02d087630004552a97",
+          "stackId": "311"
+        },
+        {
+          "stackContent": [
+            "CHHR",
+            "SOX",
+            "CJS",
+            "PINUP",
+            "LEG",
+            "LEG",
+            "CR",
+            "LND",
+            "UW",
+            "AC",
+            "AC",
+            "SCHUNI"
+          ],
+          "_id": "5fa16c02d087630004552a98",
+          "stackId": "833"
+        },
+        {
+          "stackContent": [
+            "LSW",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "UW",
+            "LPB",
+            "SCHUNI",
+            "AC",
+            "LJK"
+          ],
+          "_id": "5fa16c02d087630004552a99",
+          "stackId": "431"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "CHKNW",
+            "LND",
+            "AC",
+            "AC",
+            "AC"
+          ],
+          "_id": "5fa16c02d087630004552a9a",
+          "stackId": "705"
+        },
+        {
+          "stackContent": [
+            "PINUP",
+            "L POLO D",
+            "AC",
+            "L POLO D",
+            "AC",
+            "LPB",
+            "LJK",
+            "CPT",
+            "AC",
+            "CPT",
+            "PINUP",
+            "LTSH"
+          ],
+          "_id": "5fa16c02d087630004552a9b",
+          "stackId": "864"
+        },
+        {
+          "stackContent": [
+            "CHHR",
+            "AC",
+            "ATS",
+            "CJS",
+            "CJS",
+            "CJS",
+            "CJS",
+            "LND",
+            "SCHUNI",
+            "MIX TRA",
+            "CANO",
+            "CTS"
+          ],
+          "_id": "5fa16c02d087630004552a9c",
+          "stackId": "905"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SOX",
+            "JUMP",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "5fa16c02d087630004552a9d",
+          "stackId": "699"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "JUMP"
+          ],
+          "_id": "5fa16c02d087630004552a9e",
+          "stackId": "560"
+        },
+        {
+          "stackContent": [
+            "POLO LS",
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR"
+          ],
+          "_id": "5fa16c02d087630004552a9f",
+          "stackId": "519"
+        },
+        {
+          "stackContent": [
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR",
+            "POLO LS"
+          ],
+          "_id": "5fa16c02d087630004552aa0",
+          "stackId": "732"
+        },
+        {
+          "stackContent": [
+            "HHR",
+            "HHR",
+            "POLO LS",
+            "POLO LS",
+            "HHR",
+            "BRA"
+          ],
+          "_id": "5fa16c02d087630004552aa1",
+          "stackId": "796"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "636002d8679fbe0004b206dd",
+      "containerContent": [
+        {
+          "stackContent": [
+            "LEG",
+            "AC",
+            "WHAT",
+            "SCHUNI",
+            "AC",
+            "PYJ",
+            "AC",
+            "CHKNW",
+            "LPB",
+            "AC",
+            "LCD",
+            "UW"
+          ],
+          "_id": "636002d8679fbe0004b206de",
+          "stackId": "606"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "MJK",
+            "LTSH",
+            "UW",
+            "LEG",
+            "ATS",
+            "L POLO D",
+            "LJK",
+            "LSHO",
+            "CJS"
+          ],
+          "_id": "636002d8679fbe0004b206df",
+          "stackId": "325"
+        },
+        {
+          "stackContent": [
+            "LPB",
+            "AC",
+            "LCS",
+            "MIX TRA",
+            "CJS",
+            "LCB",
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "CR",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b206e0",
+          "stackId": "677"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "L POLO D",
+            "LPD",
+            "AC",
+            "AC",
+            "OSH",
+            "CTS",
+            "MIX TRA",
+            "CJS",
+            "CJS",
+            "SCHUNI",
+            "LPB"
+          ],
+          "_id": "636002d8679fbe0004b206e1",
+          "stackId": "701"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CR",
+            "LCD",
+            "AC",
+            "ATS",
+            "ATS",
+            "AC",
+            "AC",
+            "CANO",
+            "AC",
+            "SOX",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b206e2",
+          "stackId": "844"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "CR",
+            "MIX TRA",
+            "LTSH",
+            "LDD",
+            "LCB",
+            "PINUP",
+            "SCHUNI",
+            "CJS",
+            "CPT",
+            "AC",
+            "UW"
+          ],
+          "_id": "636002d8679fbe0004b206e3",
+          "stackId": "466"
+        },
+        {
+          "stackContent": [
+            "MIX TRA",
+            "MJK",
+            "SCHUNI",
+            "LPD",
+            "NET",
+            "MIX TRA",
+            "LPB",
+            "L POLO D",
+            "L POLO D",
+            "NYCL",
+            "LJK",
+            "CPT"
+          ],
+          "_id": "636002d8679fbe0004b206e4",
+          "stackId": "658"
+        },
+        {
+          "stackContent": [
+            "CR",
+            "AC",
+            "CJS",
+            "MIX TRA",
+            "AC",
+            "AC",
+            "LEG",
+            "SOX",
+            "AC",
+            "AC",
+            "ATS",
+            "LSW"
+          ],
+          "_id": "636002d8679fbe0004b206e5",
+          "stackId": "012"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CJS",
+            "AC",
+            "ATS",
+            "ATS",
+            "PINUP",
+            "LTSH",
+            "LTSH",
+            "AC",
+            "CJS",
+            "CJS",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b206e6",
+          "stackId": "479"
+        },
+        {
+          "stackContent": [
+            "PINUP",
+            "AC",
+            "AC",
+            "MIX TRA",
+            "CANO",
+            "CTS",
+            "CPT",
+            "LCB",
+            "AC",
+            "AC",
+            "AC",
+            "CJS"
+          ],
+          "_id": "636002d8679fbe0004b206e7",
+          "stackId": "220"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "PINUP",
+            "AC",
+            "CSHO",
+            "MIX TRA",
+            "MSUIT",
+            "ATS",
+            "LDS",
+            "ATS",
+            "LJK",
+            "AC",
+            "LPS"
+          ],
+          "_id": "636002d8679fbe0004b206e8",
+          "stackId": "193"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "LCB",
+            "AC",
+            "ATS",
+            "AC",
+            "MIX TRA",
+            "AC",
+            "CJS",
+            "CTS",
+            "AC",
+            "CJS",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b206e9",
+          "stackId": "140"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "SOX",
+            "LTSH",
+            "AC",
+            "AC",
+            "AC",
+            "CR",
+            "AC",
+            "AC",
+            "CJS",
+            "MIX TRA",
+            "MIX TRA"
+          ],
+          "_id": "636002d8679fbe0004b206ea",
+          "stackId": "031"
+        },
+        {
+          "stackContent": [
+            "ATS",
+            "ATS",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "AC",
+            "LPB",
+            "LPB",
+            "LPB",
+            "OSH",
+            "CTS"
+          ],
+          "_id": "636002d8679fbe0004b206eb",
+          "stackId": "611"
+        },
+        {
+          "stackContent": [
+            "CORD",
+            "CR",
+            "CJS",
+            "LEG",
+            "LCB",
+            "CR",
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b206ec",
+          "stackId": "316"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "SCHUNI",
+            "PINUP",
+            "L POLO D",
+            "AC",
+            "LEG",
+            "LPD"
+          ],
+          "_id": "636002d8679fbe0004b206ed",
+          "stackId": "349"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "MIX TRA",
+            "AC",
+            "MIX TRA",
+            "SOX",
+            "UW",
+            "AC",
+            "LCB",
+            "CTS",
+            "LCS",
+            "AC",
+            "CHKNW"
+          ],
+          "_id": "636002d8679fbe0004b206ee",
+          "stackId": "567"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "CJS",
+            "LPD",
+            "LTSH",
+            "LJK",
+            "LTSH",
+            "LJK",
+            "MIX TRA",
+            "LCD",
+            "CANO",
+            "AC",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b206ef",
+          "stackId": "382"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "636002d8679fbe0004b206f0",
+          "stackId": "758"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "636002d8679fbe0004b206f1",
+          "stackId": "265"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "636002d8679fbe0004b206f2",
+          "stackId": "753"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "LMP"
+          ],
+          "_id": "636002d8679fbe0004b206f3",
+          "stackId": "281"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "MTP"
+          ],
+          "_id": "636002d8679fbe0004b206f4",
+          "stackId": "817"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "MTP",
+            "LMP"
+          ],
+          "_id": "636002d8679fbe0004b206f5",
+          "stackId": "398"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "MTP",
+            "LMP"
+          ],
+          "_id": "636002d8679fbe0004b206f6",
+          "stackId": "181"
+        },
+        {
+          "stackContent": [
+            "MSH",
+            "HSH",
+            "LMP"
+          ],
+          "_id": "636002d8679fbe0004b206f7",
+          "stackId": "114"
+        },
+        {
+          "stackContent": [
+            "MSH",
+            "MSH",
+            "WSH"
+          ],
+          "_id": "636002d8679fbe0004b206f8",
+          "stackId": "068"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "636002d8679fbe0004b206f9",
+          "stackId": "914"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "636002d8679fbe0004b206fa",
+          "stackId": "008"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "636002d8679fbe0004b206fb",
+          "stackId": "631"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CR",
+            "CR",
+            "CR",
+            "PINUP",
+            "AC",
+            "AC",
+            "CR",
+            "CJS",
+            "CANO",
+            "CJS",
+            "CTS"
+          ],
+          "_id": "636002d8679fbe0004b206fc",
+          "stackId": "905"
+        },
+        {
+          "stackContent": [
+            "CTS",
+            "L POLO D",
+            "L POLO D",
+            "L POLO S",
+            "SCHUNI",
+            "LPS",
+            "ATS",
+            "CJS",
+            "AC",
+            "AC",
+            "UW",
+            "CHKNW"
+          ],
+          "_id": "636002d8679fbe0004b206fd",
+          "stackId": "574"
+        },
+        {
+          "stackContent": [
+            "LTSH",
+            "AC",
+            "OSH",
+            "AC",
+            "SCHUNI",
+            "AC",
+            "AC",
+            "LJK",
+            "AC",
+            "MIX TRA",
+            "LPD",
+            "CJS"
+          ],
+          "_id": "636002d8679fbe0004b206fe",
+          "stackId": "251"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "LPD",
+            "AC",
+            "LPB",
+            "LEG",
+            "MIX TRA",
+            "AC",
+            "LDS",
+            "AC",
+            "CSHO",
+            "NYCL",
+            "LPB"
+          ],
+          "_id": "636002d8679fbe0004b206ff",
+          "stackId": "948"
+        },
+        {
+          "stackContent": [
+            "CPT",
+            "AC",
+            "CJS",
+            "ATS",
+            "PINUP",
+            "AC",
+            "LCB",
+            "AC",
+            "AC",
+            "SOX",
+            "CJS",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b20700",
+          "stackId": "368"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "SCHUNI",
+            "MIX TRA",
+            "CTS",
+            "CJS",
+            "CANO",
+            "CJS",
+            "CJS"
+          ],
+          "_id": "636002d8679fbe0004b20701",
+          "stackId": "355"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "LEG",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "MSUIT",
+            "AC",
+            "LPB",
+            "SOX",
+            "CJS"
+          ],
+          "_id": "636002d8679fbe0004b20702",
+          "stackId": "867"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "OSH",
+            "LTSH",
+            "AC",
+            "CTS",
+            "ATS",
+            "MSUIT",
+            "CJS",
+            "CJS",
+            "CR",
+            "UW",
+            "SCHUNI"
+          ],
+          "_id": "636002d8679fbe0004b20703",
+          "stackId": "212"
+        },
+        {
+          "stackContent": [
+            "ATS",
+            "ATS",
+            "LPB",
+            "CJS",
+            "MIX TRA",
+            "LEG",
+            "AC",
+            "CTS",
+            "LTSH",
+            "CJS",
+            "LCB",
+            "OSH"
+          ],
+          "_id": "636002d8679fbe0004b20704",
+          "stackId": "934"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CR",
+            "LTSH",
+            "AC",
+            "LTS",
+            "LCS",
+            "AC",
+            "CJS",
+            "AC",
+            "SOX",
+            "AC",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b20705",
+          "stackId": "471"
+        },
+        {
+          "stackContent": [
+            "LEG",
+            "CHKNW",
+            "LTSH",
+            "MIX TRA",
+            "AC",
+            "CJS",
+            "SCHUNI",
+            "LPD",
+            "L POLO D",
+            "LPB",
+            "PINUP",
+            "LSW"
+          ],
+          "_id": "636002d8679fbe0004b20706",
+          "stackId": "678"
+        },
+        {
+          "stackContent": [
+            "CR",
+            "CR",
+            "AC",
+            "CR",
+            "ATS",
+            "CJS",
+            "L POLO S",
+            "AC",
+            "AC",
+            "OSH",
+            "LCD",
+            "AC"
+          ],
+          "_id": "636002d8679fbe0004b20707",
+          "stackId": "248"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "636002d8679fbe0004b20708",
+          "stackId": "811"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "636002d8679fbe0004b20709",
+          "stackId": "769"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "636002d8679fbe0004b2070a",
+          "stackId": "494"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "636002d8679fbe0004b2070b",
+          "stackId": "119"
+        },
+        {
+          "stackContent": [
+            "CTS",
+            "ATS",
+            "PINUP",
+            "CR",
+            "CR",
+            "LPB"
+          ],
+          "_id": "636002d8679fbe0004b2070c",
+          "stackId": "880"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "ATS",
+            "CJS",
+            "CR",
+            "ATS",
+            "SCHUNI"
+          ],
+          "_id": "636002d8679fbe0004b2070d",
+          "stackId": "257"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "HHR",
+            "HHR",
+            "BRA",
+            "BRA",
+            "LPD"
+          ],
+          "_id": "636002d8679fbe0004b2070e",
+          "stackId": "470"
+        },
+        {
+          "stackContent": [
+            "CHHR",
+            "CHHR",
+            "CHHR",
+            "CHHR",
+            "CHHR",
+            "CHHR"
+          ],
+          "_id": "636002d8679fbe0004b2070f",
+          "stackId": "335"
+        },
+        {
+          "stackContent": [
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR",
+            "HHR"
+          ],
+          "_id": "636002d8679fbe0004b20710",
+          "stackId": "685"
+        },
+        {
+          "stackContent": [
+            "POLO LS",
+            "POLO LS",
+            "CHHR"
+          ],
+          "_id": "636002d8679fbe0004b20711",
+          "stackId": "050"
+        },
+        {
+          "stackContent": [
+            "LND"
+          ],
+          "_id": "636002d8679fbe0004b20712",
+          "stackId": "637"
+        },
+        {
+          "stackContent": [
+            "LND"
+          ],
+          "_id": "636002d8679fbe0004b20713",
+          "stackId": "577"
+        }
+      ],
+      "containerNumber": "TCLU 5391267",
+      "sealNumber": "EU22785496",
+      "date": "2022-10-31T09:32:28.800Z",
+      "__v": 0
+    },
+    {
+      "_id": "63d13df83b1e540035b9368d",
+      "containerContent": [
+        {
+          "stackContent": [
+            "AC",
+            "MIX TRA",
+            "LEG",
+            "CR",
+            "CR",
+            "CR",
+            "CR",
+            "ATS",
+            "ATS",
+            "ATS",
+            "ATS",
+            "ATS"
+          ],
+          "_id": "63d13df83b1e540035b9368e",
+          "stackId": "836"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "NYCL",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CANO",
+            "AC",
+            "AC",
+            "CR",
+            "CR",
+            "LCD"
+          ],
+          "_id": "63d13df83b1e540035b9368f",
+          "stackId": "409"
+        },
+        {
+          "stackContent": [
+            "SOX",
+            "LPS",
+            "CJS",
+            "CJS",
+            "L POLO D",
+            "LTSH",
+            "CSHO",
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "CR"
+          ],
+          "_id": "63d13df83b1e540035b93690",
+          "stackId": "085"
+        },
+        {
+          "stackContent": [
+            "MJK",
+            "AC",
+            "AC",
+            "AC",
+            "LPB",
+            "ATS",
+            "AC",
+            "AC",
+            "PINUP",
+            "AC",
+            "AC",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b93691",
+          "stackId": "913"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "LPB",
+            "CJS",
+            "AC",
+            "AC",
+            "CJS",
+            "AC",
+            "CJS",
+            "CPT",
+            "L POLO D",
+            "AC",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b93692",
+          "stackId": "309"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "MIX TRA",
+            "LCB",
+            "CJS",
+            "AC",
+            "SOX",
+            "CJS",
+            "CTS",
+            "LPD"
+          ],
+          "_id": "63d13df83b1e540035b93693",
+          "stackId": "416"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "LTSH",
+            "CJS",
+            "LCB",
+            "SOX",
+            "CJS",
+            "CTS",
+            "LTSH",
+            "MIX TRA"
+          ],
+          "_id": "63d13df83b1e540035b93694",
+          "stackId": "604"
+        },
+        {
+          "stackContent": [
+            "LJK",
+            "MIX TRA",
+            "MIX TRA",
+            "CJS",
+            "CJS",
+            "LTSH",
+            "LTSH",
+            "LTSH",
+            "LTSH",
+            "PINUP",
+            "AC",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b93695",
+          "stackId": "775"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "ATS",
+            "CORD",
+            "ATS",
+            "MIX TRA",
+            "CTS",
+            "CJS",
+            "CJS",
+            "CJS",
+            "UW",
+            "MIX TRA",
+            "MIX TRA"
+          ],
+          "_id": "63d13df83b1e540035b93696",
+          "stackId": "079"
+        },
+        {
+          "stackContent": [
+            "CANO",
+            "SOX",
+            "LSW",
+            "AC",
+            "PINUP",
+            "NET",
+            "AC",
+            "OSH",
+            "MIX TRA",
+            "CSHO",
+            "LSW",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b93697",
+          "stackId": "811"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "LPB",
+            "MJK",
+            "AC",
+            "CJS",
+            "NYCL",
+            "PINUP",
+            "CTS",
+            "ATS",
+            "LCB",
+            "CHKNW",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b93698",
+          "stackId": "321"
+        },
+        {
+          "stackContent": [
+            "CANO",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "CJS",
+            "CJS",
+            "CJS"
+          ],
+          "_id": "63d13df83b1e540035b93699",
+          "stackId": "247"
+        },
+        {
+          "stackContent": [
+            "CPT",
+            "LCD",
+            "LPS",
+            "LCB",
+            "AC",
+            "AC",
+            "AC",
+            "SOX",
+            "AC",
+            "AC",
+            "AC",
+            "PINUP"
+          ],
+          "_id": "63d13df83b1e540035b9369a",
+          "stackId": "774"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "ATS",
+            "ATS",
+            "ATS",
+            "SOX",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b9369b",
+          "stackId": "159"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "CHKNW",
+            "UW",
+            "CTS",
+            "CSHO",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b9369c",
+          "stackId": "536"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CJS",
+            "CJS",
+            "AC",
+            "AC",
+            "LEG"
+          ],
+          "_id": "63d13df83b1e540035b9369d",
+          "stackId": "559"
+        },
+        {
+          "stackContent": [
+            "ATS",
+            "SOX",
+            "SCHUNI",
+            "ATS",
+            "SCHUNI",
+            "CJS",
+            "AC",
+            "CPT",
+            "CJS",
+            "LCS",
+            "ATS",
+            "ATS"
+          ],
+          "_id": "63d13df83b1e540035b9369e",
+          "stackId": "681"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "PINUP",
+            "AC",
+            "AC",
+            "AC",
+            "LTSH",
+            "AC",
+            "AC",
+            "OSH",
+            "AC",
+            "PINUP",
+            "OSH"
+          ],
+          "_id": "63d13df83b1e540035b9369f",
+          "stackId": "479"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "63d13df83b1e540035b936a0",
+          "stackId": "251"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "63d13df83b1e540035b936a1",
+          "stackId": "209"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "63d13df83b1e540035b936a2",
+          "stackId": "415"
+        },
+        {
+          "stackContent": [
+            "MCP",
+            "BPT",
+            "MCP"
+          ],
+          "_id": "63d13df83b1e540035b936a3",
+          "stackId": "863"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "MTP"
+          ],
+          "_id": "63d13df83b1e540035b936a4",
+          "stackId": "310"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "LMP"
+          ],
+          "_id": "63d13df83b1e540035b936a5",
+          "stackId": "639"
+        },
+        {
+          "stackContent": [
+            "MTP",
+            "LMP",
+            "LMP"
+          ],
+          "_id": "63d13df83b1e540035b936a6",
+          "stackId": "398"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "MTP",
+            "LMP"
+          ],
+          "_id": "63d13df83b1e540035b936a7",
+          "stackId": "214"
+        },
+        {
+          "stackContent": [
+            "LMP",
+            "LMP",
+            "LMP"
+          ],
+          "_id": "63d13df83b1e540035b936a8",
+          "stackId": "884"
+        },
+        {
+          "stackContent": [
+            "MSH",
+            "WSH",
+            "MSH"
+          ],
+          "_id": "63d13df83b1e540035b936a9",
+          "stackId": "054"
+        },
+        {
+          "stackContent": [
+            "MSH",
+            "HSH",
+            "MSH"
+          ],
+          "_id": "63d13df83b1e540035b936aa",
+          "stackId": "331"
+        },
+        {
+          "stackContent": [
+            "MSH",
+            "HSH",
+            "LMP"
+          ],
+          "_id": "63d13df83b1e540035b936ab",
+          "stackId": "374"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "63d13df83b1e540035b936ac",
+          "stackId": "887"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "63d13df83b1e540035b936ad",
+          "stackId": "539"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "63d13df83b1e540035b936ae",
+          "stackId": "482"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "63d13df83b1e540035b936af",
+          "stackId": "766"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "63d13df83b1e540035b936b0",
+          "stackId": "756"
+        },
+        {
+          "stackContent": [
+            "ZIP",
+            "ZIP",
+            "ZIP"
+          ],
+          "_id": "63d13df83b1e540035b936b1",
+          "stackId": "839"
+        },
+        {
+          "stackContent": [
+            "CHKNW",
+            "MIX TRA",
+            "AC",
+            "CTS",
+            "ATS",
+            "CJS",
+            "LPD",
+            "LJK",
+            "AC",
+            "UW",
+            "CR",
+            "SCHUNI"
+          ],
+          "_id": "63d13df83b1e540035b936b2",
+          "stackId": "574"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "PINUP",
+            "MIX TRA",
+            "CJS",
+            "LCB",
+            "CJS",
+            "CJS",
+            "CR",
+            "L POLO D",
+            "CPT",
+            "CPT",
+            "LPD"
+          ],
+          "_id": "63d13df83b1e540035b936b3",
+          "stackId": "063"
+        },
+        {
+          "stackContent": [
+            "LJK",
+            "CTS",
+            "CJS",
+            "AC",
+            "LCB",
+            "CJS",
+            "AC",
+            "LEG",
+            "LEG",
+            "LDD",
+            "AC",
+            "CANO"
+          ],
+          "_id": "63d13df83b1e540035b936b4",
+          "stackId": "664"
+        },
+        {
+          "stackContent": [
+            "UW",
+            "SCHUNI",
+            "AC",
+            "MSUIT",
+            "ATS",
+            "LCB",
+            "MJK",
+            "CJS",
+            "AC",
+            "AC",
+            "MIX TRA",
+            "OSH"
+          ],
+          "_id": "63d13df83b1e540035b936b5",
+          "stackId": "858"
+        },
+        {
+          "stackContent": [
+            "CR",
+            "CJS",
+            "LPB",
+            "LPB",
+            "LDS",
+            "LEG",
+            "LTSH",
+            "PINUP",
+            "LTSH",
+            "LSHO",
+            "LCS",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b936b6",
+          "stackId": "955"
+        },
+        {
+          "stackContent": [
+            "LEG",
+            "CJS",
+            "UW",
+            "LCB",
+            "CTS",
+            "LCD",
+            "ATS",
+            "ATS",
+            "ATS",
+            "NYCL",
+            "L POLO S",
+            "LEG"
+          ],
+          "_id": "63d13df83b1e540035b936b7",
+          "stackId": "455"
+        },
+        {
+          "stackContent": [
+            "L POLO D",
+            "L POLO D",
+            "L POLO D",
+            "L POLO D",
+            "SCHUNI",
+            "ATS",
+            "OSH",
+            "CHKNW",
+            "L POLO D",
+            "ATS",
+            "LEG",
+            "CANO"
+          ],
+          "_id": "63d13df83b1e540035b936b8",
+          "stackId": "674"
+        },
+        {
+          "stackContent": [
+            "LCB",
+            "CJS",
+            "AC",
+            "AC",
+            "SCHUNI",
+            "PINUP",
+            "AC",
+            "LJK",
+            "LPD",
+            "AC",
+            "CPT",
+            "AC"
+          ],
+          "_id": "63d13df83b1e540035b936b9",
+          "stackId": "498"
+        },
+        {
+          "stackContent": [
+            "CJS",
+            "CJS",
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "SOX",
+            "AC",
+            "AC",
+            "MSUIT",
+            "AC",
+            "CJS"
+          ],
+          "_id": "63d13df83b1e540035b936ba",
+          "stackId": "785"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "AC",
+            "AC",
+            "L POLO D",
+            "AC",
+            "LCD",
+            "MIX TRA",
+            "CTS",
+            "MIX TRA",
+            "CR",
+            "CR",
+            "CR"
+          ],
+          "_id": "63d13df83b1e540035b936bb",
+          "stackId": "102"
+        },
+        {
+          "stackContent": [
+            "CR",
+            "MIX TRA",
+            "LPB",
+            "LPB",
+            "LPB",
+            "LPD",
+            "LPD",
+            "LPD",
+            "LPD",
+            "LPD",
+            "LPB",
+            "LPB"
+          ],
+          "_id": "63d13df83b1e540035b936bc",
+          "stackId": "794"
+        },
+        {
+          "stackContent": [
+            "LTS",
+            "MIX TRA",
+            "CTS",
+            "CTS",
+            "CR",
+            "CR",
+            "CR",
+            "CR",
+            "CR",
+            "CR",
+            "LPB",
+            "LPB"
+          ],
+          "_id": "63d13df83b1e540035b936bd",
+          "stackId": "519"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "63d13df83b1e540035b936be",
+          "stackId": "610"
+        },
+        {
+          "stackContent": [
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH",
+            "SSH"
+          ],
+          "_id": "63d13df83b1e540035b936bf",
+          "stackId": "143"
+        },
+        {
+          "stackContent": [
+            "LPB",
+            "OSH",
+            "LPB",
+            "BRA",
+            "BRA",
+            "BRA"
+          ],
+          "_id": "63d13df83b1e540035b936c0",
+          "stackId": "759"
+        },
+        {
+          "stackContent": [
+            "L POLO D",
+            "AC",
+            "CJS",
+            "AC",
+            "CANO",
+            "MIX TRA"
+          ],
+          "_id": "63d13df83b1e540035b936c1",
+          "stackId": "038"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "CANO",
+            "CJS",
+            "AC",
+            "PINUP",
+            "CJS"
+          ],
+          "_id": "63d13df83b1e540035b936c2",
+          "stackId": "625"
+        }
+      ],
+      "containerNumber": "MSDU 4047198 ",
+      "sealNumber": "EU25202654",
+      "date": "2023-01-25T12:14:52.674Z",
+      "__v": 0
+    },
+    {
+      "_id": "63d13df83b1e540035b936c3",
+      "containerContent": [
+        {
+          "stackContent": [
+            "AC",
+            "MIX TRA",
+            "LEG",
+            "CR",
+            "CR",
+            "CR",
+            "CR",
+            "ATS",
+            "ATS",
+            "ATS",
+            "ATS",
+            "ATS"
+          ],
+          "_id": "63d13df83b1e540035b936c5",
+          "stackId": "836"
+        },
+        {
+          "stackContent": [
+            "AC",
+            "NYCL",
+            "AC",
+            "AC",
+            "AC",
+            "CJS",
+            "CANO",
+            "AC",
+            "AC",
+            "CR",
+            "CR",
+            "LCD"
+          ],
+          "_id": "63d13df83b1e540035b936c6",
+          "stackId": "409"
+        }
+    ]
+    }
+]}
+        

@@ -31,6 +31,7 @@ const Main = () => {
 			setContainers(localContainers);
 		}
 		api.getContainers().then(({ containers }) => {
+			
 			containers.sort(utils.compareDates);
 			if (!localContainers) {
 				updateLocalContainers(containers);
